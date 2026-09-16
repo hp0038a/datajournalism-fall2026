@@ -15,7 +15,7 @@ The original database shows which movies are highly rated by IMDb users, but it 
 This information could possibly be useful for an entertainment audience because a movie can be thought of very highly by audiences without having to receive many Oscars, while other highly rated movies have received extensive recognition from the Academy. For instance, *The Shawshank Redemption* was nominated for seven Academy Awards but did not win any, yet it is the highest ranked movie in the IMDb dataset. 
 
 ## 4. Expanded dataset
-[Expanded IMDb/Oscar dataset]([IMDB Top 250 Movies + Academy Awards nominations:wins.csv](https://github.com/user-attachments/files/32303139/IMDB.Top.250.Movies.%2B.Academy.Awards.nominations.wins.csv))
+[Expanded IMDb/Oscar dataset](https://github.com/user-attachments/files/32303139/IMDB.Top.250.Movies.%2B.Academy.Awards.nominations.wins.csv)
 
 I added two new fields to the original database: Oscar Nominations and Oscar Wins. I researched these fields using Academy of Motion Picture Arts and Sciences records. I also included an Oscar Source column with a source for each researched record, as well as a Notes column for information about noteworthy records. 
 
