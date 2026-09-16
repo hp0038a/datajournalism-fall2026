@@ -1,4 +1,5 @@
-[IMDB Top 250 Movies.csv](https://github.com/user-attachments/files/32302939/IMDB.Top.250.Movies.csv)# Assignment 2: Build onto an existing database
+[IMDB Top 250 Movies.csv](https://github.com/user-attachments/files/32302939/IMDB.Top.250.Movies.csv)
+# Assignment 2: Build onto an existing database
 
 ## 1. Original database
 [IMDb Top 250 Movies Database](https://www.kaggle.com/datasets/rajugc/imdb-top-250-movies-dataset) 
@@ -266,7 +267,7 @@ This information could possibly be useful for an entertainment audience because 
 247,Dersu Uzala,1975,8.2,"Adventure,Biography,Drama",G,2h 22m,There is man and beast at nature's mercy. There is awe and love and reverence. And there is the man called...,4000000,14480,"Maksim Munzuk,Yuriy Solomin,Mikhail Bychkov,Vladimir Khrulyov,V. Lastochkin,Stanislav Marin,Igor Sykhra,Vladimir Sergiyakov,Yanis Yakobsons,Vladimir Khlestov,G. Polunin,V. Koldin,M. Tetov,S. Sinyavskiy,Vladimir Sverba,V. Ignatov,Vladimir Kremena,Aleksandr Pyatkov",Akira Kurosawa,"Akira Kurosawa,Yuriy Nagibin,Vladimir Arsenev",,,,,
 248,Aladdin,1992,8,"Animation,Adventure,Comedy",G,1h 30m,Wish granted! (DVD re-release),Not Available,Not Available,"Scott Weinger,Robin Williams,Linda Larkin,Jonathan Freeman,Frank Welker,Gilbert Gottfried,Douglas Seale,Charlie Adler,Jack Angel,Corey Burton,Philip L. Clarke,Jim Cummings,Jennifer Darling,Debi Derryberry,Bruce Gooch,Jerry Houser,Vera Lockwood,Sherry Lynn","Ron Clements,John Musker","Ron Clements,John Musker,Ted Elliott",,,,,
 249,Gandhi,1982,8,"Biography,Drama,History",PG,3h 11m,His Triumph Changed The World Forever.,22000000,52767889,"Ben Kingsley,John Gielgud,Rohini Hattangadi,Roshan Seth,Candice Bergen,Edward Fox,Trevor Howard,John Mills,Martin Sheen,Ian Charleson,Günther Maria Halmer,Athol Fugard,Saeed Jaffrey,Geraldine James,Alyque Padamsee,Amrish Puri,Ian Bannen,Michael Bryant",Richard Attenborough,John Briley,,,,,
-250,Dances with Wolves,1990,8,"Adventure,Drama,Western",PG-13,3h 1m,Inside everyone is a frontier waiting to be discovered.,22000000,424208848,"Kevin Costner,Mary McDonnell,Graham Greene,Rodney A. Grant,Floyd 'Red Crow' Westerman,Tantoo Cardinal,Robert Pastorelli,Charles Rocket,Maury Chaykin,Jimmy Herman,Nathan Lee Chasing His Horse,Michael Spears,Jason R. Lone Hill,Tony Pierce,Doris Leader Charge,Tom Everett,Larry Joshua,Kirk Baltz",Kevin Costner,Michael Blake,,,,,
+250,Dances with Wolves,1990,8,"Adventure,Drama,Western",PG-13,3h 1m,Inside everyone is a frontier waiting to be discovered.,22000000,424208848,"Kevin Costner,Mary McDonnell,Graham Greene,Rodney A. Grant,Floyd 'Red Crow' Westerman,Tantoo Cardinal,Robert Pastorelli,Charles Rocket,Maury Chaykin,Jimmy Herman,Nathan Lee Chasing His Horse,Michael Spears,Jason R. Lone Hill,Tony Pierce,Doris Leader Charge,Tom Everett,Larry Joshua,Kirk Baltz",Kevin Costner,Michael Blake,,,,,)
 
 I added two new fields to the original database: Oscar Nominations and Oscar Wins. I researched these fields using Academy of Motion Picture Arts and Sciences records. I also included an Oscar Source column with a source for each researched record, as well as a Notes column for information about noteworthy records. 
 
