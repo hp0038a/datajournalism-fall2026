@@ -1,11 +1,10 @@
-[IMDB Top 250 Movies.csv](https://github.com/user-attachments/files/32302939/IMDB.Top.250.Movies.csv)
 # Assignment 2: Build onto an existing database
 
 ## 1. Original database
 [IMDb Top 250 Movies Database](https://www.kaggle.com/datasets/rajugc/imdb-top-250-movies-dataset) 
 
 ## 2. Description of the original database
-[Original database]()
+[IMDB Top 250 Movies.csv](https://github.com/user-attachments/files/32302939/IMDB.Top.250.Movies.csv)
 
 The original database was created by Chidambara Raju G and published on Kaggle. It contains 250 highest-rated movies on IMDb as of 2021. The data was taken from IMDb and includes information such as the movie's rank, title, release year, IMDb rating, genre, runtime, budget, worldwide box office, cast, director, and writers. 
 One important limitation of this data is that this is a snapshot of IMDb's rankings from 2021 rather than a current and updated ranking. IMDb's rankings change as users continue to rank movies, so the data isn't reflective of modern opinions. The database also represents IMDb's users' ratings rather than professional critics' opinions, so the data reflects audience ratings. Because the dataset was curated for educational purposes, it is also dependent on the information that was available on IMDb at the time it was collected.
@@ -16,7 +15,7 @@ The original database shows which movies are highly rated by IMDb users, but it 
 This information could possibly be useful for an entertainment audience because a movie can be thought of very highly by audiences without having to receive many Oscars, while other highly rated movies have received extensive recognition from the Academy. For instance, *The Shawshank Redemption* was nominated for seven Academy Awards but did not win any, yet it is the highest ranked movie in the IMDb dataset. 
 
 ## 4. Expanded dataset
-[Expanded IMDb/Oscar dataset]([IMDB Top 250 Movies + Academy Awards nominations:wins.csv](https://github.com/user-attachments/files/32303139/IMDB.Top.250.Movies.%2B.Academy.Awards.nominations.wins.csv)
+[Expanded IMDb/Oscar dataset]([IMDB Top 250 Movies + Academy Awards nominations:wins.csv](https://github.com/user-attachments/files/32303139/IMDB.Top.250.Movies.%2B.Academy.Awards.nominations.wins.csv))
 
 I added two new fields to the original database: Oscar Nominations and Oscar Wins. I researched these fields using Academy of Motion Picture Arts and Sciences records. I also included an Oscar Source column with a source for each researched record, as well as a Notes column for information about noteworthy records. 
 
