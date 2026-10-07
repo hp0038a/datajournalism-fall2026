@@ -50,3 +50,6 @@ Limitation: Station data shows locations but does not explain why people use par
 Source: U.S. Census Bureau
 ACS data could provide neighborhood information such as income, race, commuting patterns and other demographics that could be compared with Capital Bikeshare station and trip data.
 Limitation: Census data describes neighborhoods, not individual bikeshare riders, so we could not assume that a particular rider has the characteristics of the neighborhood where they began a trip.
+
+# AI Disclosure
+We did not use AI on this assignment. 
