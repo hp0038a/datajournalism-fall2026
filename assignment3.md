@@ -8,7 +8,7 @@ The dataset contained 2,156 reported crime records. Theft/other was the most fre
 
 # Final Project Data
 1. Original dataset: _________. 
-2. We reviewed the columns first and determined which variables were relevant to the question: Do Capital Bikeshare members and casual riders differ in their use of electric bikes versus classic bikes?[Uploading 202609-capitalbikeshare-tripdata 2.csv…]()
+2. We reviewed the columns first and determined which variables were relevant to the question: Do Capital Bikeshare members and casual riders differ in their use of electric bikes versus classic bikes?
  The variables used were: ride_id, rideable_type, member_casual. We did not need to remove the rows with missing station information because that information wasn't relevant to the research question. We also didn't need to change the bike-type or rider-type categories because they were already organized into usable categories.
 3. Question: Do Capital Bikeshare members and casual riders differ in their use of electric bikes versus classic bikes?
    This question is newsworthy because Capital Bikeshare is a major form of transportation in the Washington D.C. region, and the system offers both classic and electric bikes. The comparison is relevant because Capital Bikeshare's pricing differs between classic bikes and e-bikes, and members receive discounted e-bike rates and other benefits. Looking at whether members and casual riders use e-bikes at different rates and provide information about how different types of riders are utilizing the bikeshare system.
