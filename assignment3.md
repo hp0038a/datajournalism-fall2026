@@ -7,7 +7,11 @@ We used the DC crime dataset and opened it as a CSV file in Excel. Once we had t
 The dataset contained 2,156 reported crime records. Theft/other was the most frequently reported offense with 1,271 records, followed by theft from auto, with 615 records. These two categories together accounted for most of the reports in the dataset. These findings indicate that theft-related offenses made up the largest portion of reported crime in the dataset and that reported offenses varied depending on shift. The numbers, however, represent recorded reports rather than the actual risk of experiencing a crime. The data by itself can't explain why these patterns occurred or establish that one shift it more dangerous than another. 
 
 # Final Project Data
-1. Original dataset: _________. 
+1. Original dataset: [Uploading 202609-capitalbikeshare-tripdata 2.csv…](). Count of ride_id,Column Labels,,
+Row Labels,classic_bike,electric_bike,Grand Total
+casual,53523,139538,193061
+member,140335,343412,483747
+Grand Total,193858,482950,676808
 2. We reviewed the columns first and determined which variables were relevant to the question: Do Capital Bikeshare members and casual riders differ in their use of electric bikes versus classic bikes?
  The variables used were: ride_id, rideable_type, member_casual. We did not need to remove the rows with missing station information because that information wasn't relevant to the research question. We also didn't need to change the bike-type or rider-type categories because they were already organized into usable categories.
 3. Question: Do Capital Bikeshare members and casual riders differ in their use of electric bikes versus classic bikes?
