@@ -1,0 +1,4 @@
+This bar chart shows the number of facilities in each DC ward that reported elevated lead levels in drinking water. Comparing the wards makes it easier to see where elevated lead results were reported most frequently. For my final project, this visualization could help illustrate the geographic distribution of lead in drinking water across DC and identify areas that may warrant further investigation.
+
+<div style="min-height:257px" id="datawrapper-vis-nlgpR"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/nlgpR/embed.js" charset="utf-8" data-target="#datawrapper-vis-nlgpR"></script><noscript><img src="https://datawrapper.dwcdn.net/nlgpR/full.png" alt="DC Wards With Facilities Reporting Elevated Lead Levels (Bar Chart)" /></noscript></div>
+https://datawrapper.dwcdn.net/nlgpR/1/ 
